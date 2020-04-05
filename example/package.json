@@ -12,7 +12,7 @@
     "@types/react-dom": "^16.9.6",
     "react": "file:../node_modules/react",
     "react-dom": "file:../node_modules/react-dom",
-    "react-scripts": "file:../node_modules/react-scripts",
+    "react-scripts": "^3.4.1",
     "typescript": "^3.7.5",
     "reactjs-windows": "file:.."
   },
