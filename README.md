@@ -6,7 +6,7 @@
 
 ## Sample
 
-![Sample Gif](https://raw.githubusercontent.com/YehudaKremer/reactjs-windows/master/example/reactjs-windows.gif)
+![Sample Gif](https://raw.githubusercontent.com/YehudaKremer/reactjs-windows/master/example/react-windows.gif)
 
 ## Install
 
