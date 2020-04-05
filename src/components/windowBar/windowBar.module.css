@@ -1,0 +1,29 @@
+.windowBarContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #9a9a9a;
+  user-select: none;
+  background-color: #fafafa;
+}
+
+.title {
+  padding-left: 0.6em;
+  text-transform: uppercase;
+}
+
+.buttonsContainer {
+  display: flex;
+}
+
+.button {
+  padding: 0.4em 0.6em;
+  display: flex;
+  color: #b5b5b5;
+  transition: color 0.1s ease, background-color 0.1s ease;
+}
+
+.button:hover {
+  background-color: #eeeeee;
+  color: inherit;
+}
