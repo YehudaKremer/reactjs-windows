@@ -8,6 +8,13 @@
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
+  "keywords": [
+    "react",
+    "reactjs",
+    "popup",
+    "window",
+    "windows"
+  ],
   "engines": {
     "node": ">=10"
   },
