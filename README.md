@@ -5,7 +5,9 @@
 [![NPM](https://img.shields.io/npm/v/reactjs-windows.svg)](https://www.npmjs.com/package/reactjs-windows) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Sample
+
 [Demo](https://reactwindow.z19.web.core.windows.net/)
+
 ![Sample Gif](https://raw.githubusercontent.com/YehudaKremer/reactjs-windows/master/example/react-windows.gif)
 
 ## Install
