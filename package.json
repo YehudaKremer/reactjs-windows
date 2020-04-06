@@ -1,6 +1,6 @@
 {
   "name": "reactjs-windows",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React popup window with options like resize, drag and more..",
   "author": "YehudaKremer",
   "license": "MIT",
