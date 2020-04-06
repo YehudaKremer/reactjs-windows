@@ -8,6 +8,8 @@
 
 ![Sample Gif](https://raw.githubusercontent.com/YehudaKremer/reactjs-windows/master/example/react-windows.gif)
 
+[Demo](https://reactwindow.z19.web.core.windows.net/)
+
 ## Install
 
 ```bash
