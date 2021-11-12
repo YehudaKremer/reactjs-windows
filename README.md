@@ -6,8 +6,6 @@
 
 ## Sample
 
-[Demo](https://reactwindow.z19.web.core.windows.net/)
-
 ![Sample Gif](https://raw.githubusercontent.com/YehudaKremer/reactjs-windows/master/example/react-windows.gif)
 
 ## Install
